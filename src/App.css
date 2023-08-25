@@ -1,0 +1,19 @@
+.App {
+  background-color: #457cf3;
+  min-height: 100vh;
+  overflow: hidden;
+  padding: 20px;
+  width: 100%;
+}
+
+.App img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.App p {
+  font-size: 20px;
+  margin-top: 20px;
+  word-break: break-all;
+}
